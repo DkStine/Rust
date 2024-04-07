@@ -1,2 +1,2 @@
 # Rust
-This is my Rust programming language repository :):
+This is my `Rust` programming language repository :):
