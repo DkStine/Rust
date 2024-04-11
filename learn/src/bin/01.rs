@@ -86,7 +86,7 @@ fn display_pages(book: &Book) {
 fn display_rating(book: &Book) {
     println!("Rating: {:?}", book.rating);
 }
-*/
+
 
 struct GroceryItems {
     qty: i32,
@@ -99,6 +99,7 @@ fn display_qty(item: &GroceryItems) {
 fn display_id(item: &GroceryItems) {
     println!("Id: {:?}", item.id);
 }
+*/
 
 fn main() {
     // a1
@@ -229,5 +230,5 @@ fn main() {
     display_qty(&item);
     */
 
-    
+
 }
